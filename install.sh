@@ -1,4 +1,4 @@
-#!/bin/bash
+Гош#!/bin/bash
 
 
 runin() {
@@ -35,8 +35,8 @@ clear
 clear
 
 printf "\n\e[1;35;47m                   \e[0m"
-printf "\n\e[1;35;47m █ █ █ █▄▀ █▄▀ ▄▀█ \e[0m"
-printf "\n\e[1;35;47m █▀█ █ █ █ █ █ █▀█ \e[0m"
+printf "\n\e[1;35;47m ХИККА \e[0m"
+printf "\n\e[1;35;47m  \e[0m"
 printf "\n\e[1;35;47m                   \e[0m"
 printf "\n\n\e[3;34;40m Installing...\e[0m\n\n"
 
