@@ -1,4 +1,4 @@
-Гош#!/bin/bash
++#!/bin/bash
 
 
 runin() {
